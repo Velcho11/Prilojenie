@@ -1,0 +1,7 @@
+{
+  "name": "geopad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
